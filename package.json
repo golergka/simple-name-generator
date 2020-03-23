@@ -1,0 +1,20 @@
+{
+  "name": "simple-name-generator",
+  "version": "1.0.0",
+  "description": "A very simplistic generator that consumes a list of names and then randomly creates new ones.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "generator",
+    "rng",
+    "name",
+    "name",
+    "generator"
+  ],
+  "author": "Max Yankov",
+  "license": "MIT"
+}
