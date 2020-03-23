@@ -16,5 +16,11 @@
     "generator"
   ],
   "author": "Max Yankov",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "probability-distributions": "^0.9.1"
+  },
+  "devDependencies": {
+    "@types/probability-distributions": "^0.1.0"
+  }
 }
